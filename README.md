@@ -33,9 +33,11 @@ Here are some ideas to get you started:
 <br />
 
 ### 📈 **My GitHub Stats:**
-![Yan Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangyan66&hide=contribs&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangyan66&layout=compact&theme=radical" /></a>
+<p>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wangyan66&hide=contribs&show_icons=true&theme=radical&include_all_commits=true&count_private=true/>
+    &nbsp;
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangyan66&layout=compact&theme=radical"/>
+</p>
 
 
 [website]: https://github.com/wangyan66/
