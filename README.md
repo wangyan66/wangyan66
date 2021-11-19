@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="YanwWang's linkedin" width="26px" src="https://img.icons8.com/doodle/26/000000/linkedin--v2.png"/>][linkedin]
 [<img align="left" alt="profolio" width="26px" src="https://img.icons8.com/plasticine/26/000000/resume-website.png"/>][website]
-<a align="left" href="wang.yan6@northeastern.edu"><img width="26px" src="https://img.icons8.com/doodle/26/000000/email-sign.png"/></a>
+<a align="left" href="mailto:wang.yan6@northeastern.edu"><img width="26px" src="https://img.icons8.com/doodle/26/000000/email-sign.png"/></a>
 <br />
 
 ### 📈 **My GitHub Stats:**
