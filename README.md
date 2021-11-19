@@ -1,6 +1,7 @@
 ### Hi there, I'm Yan Wang👋
 [![Follow](https://img.shields.io/github/followers/wangyan66?label=FOLLOW&style=for-the-badge)](https://github.com/wangyan66)
-### About Me ![Visitors](https://visitor-badge.glitch.me/badge?page_id=wangyan66&left_color=grey&right_color=blue&style=for-the-badge)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=wangyan66&label=FOLLOW&style=for-the-badge&style=for-the-badge)
+### About Me 
 - 🔭 I'm currently a Master of Science in Computer Science student at [Northeastern University(SV)][neuwebsite]
 - 🖥 I am a solid software developer with a bunch of development experience in Objective-C/Swift/Java/C++
 - 🛎 Currently seeking for 2022 summer SDE Intern
