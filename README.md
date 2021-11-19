@@ -1,7 +1,6 @@
-### Hi there, I'm Yan Wang👋
+### Hi there, I'm Yan Wang👋![Visitors](https://visitor-badge.glitch.me/badge?page_id=wangyan66&left_color=grey&right_color=blue)
 
 [![Follow](https://img.shields.io/github/followers/wangyan66?label=FOLLOW&style=for-the-badge)](https://github.com/wangyan66)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=wangyan66&left_color=grey&right_color=blue)
 ### About Me
 - 🔭 I'm currently a Master of Science in Computer Science student at [Northeastern University(SV)][neuwebsite]
 - 🖥 I am a solid software developer with a bunch of development experience in Objective-C/Swift/Java/C++
