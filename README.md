@@ -1,6 +1,6 @@
 ### Hi there, I'm Yan Wang👋
 
-
+[![Follow](https://img.shields.io/github/followers/wangyan66?label=FOLLOW&style=for-the-badge)](https://github.com/wangyan66)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=wangyan66&left_color=grey&right_color=blue)
 ### About Me
 - 🔭 I'm currently a Master of Science in Computer Science student at [Northeastern University(SV)][neuwebsite]
