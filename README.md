@@ -2,7 +2,7 @@
 ### About Me ![Visitors](https://visitor-badge.glitch.me/badge?page_id=wangyan66&label=FOLLOW&style=for-the-badge&style=for-the-badge)
 - 🔭 I'm currently a Master of Science in Computer Science student at [Northeastern University(SV)][neuwebsite]
 - 🖥 I am a solid software developer with a bunch of development experience in Objective-C/Swift/Java/C++
-- 🛎 Currently seeking for 2022 summer SDE Intern
+- 🛎 Currently seeking for full time job for new graduate
 - 🌱 Hobby: Running, Coding, Sleeping
 - 😄 Pronouns: He/Him
 - 💬 I NEED MORE POWER
